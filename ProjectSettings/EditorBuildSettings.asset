@@ -15,6 +15,12 @@ EditorBuildSettings:
     path: Assets/_A1 CAT/CAT memory 1.unity
     guid: 93622dcc3592955459183bce70f07b03
   - enabled: 1
+    path: Assets/_A1 CAT/black hospital.unity
+    guid: 1ec0db502698e0140ac70032bafef61c
+  - enabled: 1
+    path: Assets/_A1 CAT/CAT memory 2.unity
+    guid: c2f594a73f7a98c408b72b2f66cd7125
+  - enabled: 1
     path: Assets/_A1 CAT/A1 cat end.unity
     guid: 50904f008ed5f4244b7bad8720e93039
   m_configObjects:
