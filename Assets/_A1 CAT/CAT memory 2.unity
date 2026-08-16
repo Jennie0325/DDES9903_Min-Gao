@@ -4244,7 +4244,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 529891a3e61cbc040b64d23184f9bda5, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.49
+      value: 1.426
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 529891a3e61cbc040b64d23184f9bda5, type: 3}
       propertyPath: m_LocalPosition.y
@@ -4252,7 +4252,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 529891a3e61cbc040b64d23184f9bda5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 14.5
+      value: 14.038
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 529891a3e61cbc040b64d23184f9bda5, type: 3}
       propertyPath: m_LocalRotation.w
@@ -6849,6 +6849,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1981179845}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
   onPrimaryInteractLift:
     m_PersistentCalls:
       m_Calls: []
@@ -8018,6 +8030,18 @@ MonoBehaviour:
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1981179845}
+        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
+        m_MethodName: SetActive
+        m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
         m_CallState: 2
   onPrimaryInteractLift:
     m_PersistentCalls:
@@ -25354,7 +25378,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 529891a3e61cbc040b64d23184f9bda5, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 13.819
+      value: 15.73
       objectReference: {fileID: 0}
     - target: {fileID: 400002, guid: 529891a3e61cbc040b64d23184f9bda5, type: 3}
       propertyPath: m_LocalRotation.w
@@ -29716,6 +29740,10 @@ PrefabInstance:
     - target: {fileID: 861110927101218661, guid: 8fedd5b0825719b4ca51c693db71c38d, type: 3}
       propertyPath: m_Name
       value: EZPZ Area Trigger (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 861110927101218661, guid: 8fedd5b0825719b4ca51c693db71c38d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6953476617054683852, guid: 8fedd5b0825719b4ca51c693db71c38d, type: 3}
       propertyPath: m_LocalPosition.x
